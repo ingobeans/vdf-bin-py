@@ -1,4 +1,4 @@
-import vdf, struct, json
+import struct, json
 
 # following notes of https://github.com/Skizzium/binary-vdf-parser
 
